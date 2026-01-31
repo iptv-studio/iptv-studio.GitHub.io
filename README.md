@@ -103,7 +103,7 @@ Donate [here][donate].
 [MIT License][license]
 
 [travis-ci]: https://travis-ci.org/BYR-Navi/BYR-Navi "Travis CI"
-[website]: https://byr-navi.com/ "Website"
+[website]: https://studio.us.kg/ "Website"
 [license]: https://github.com/BYR-Navi/BYR-Navi/blob/master/LICENSE "License"
 [commit]: https://github.com/BYR-Navi/BYR-Navi/commits/master "Last Commit"
 [saythanks]: https://saythanks.io/to/iROCKBUNNY "Say Thanks"
